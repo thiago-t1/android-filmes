@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipos_array">
+        <item>Filme</item>
+        <item>Série</item>
+        <item>Documentário</item>
+        <item>Animação</item>
+    </string-array>
+
+    <string-array name="tipos_filtro_array">
+        <item>Todos</item>
+        <item>Filme</item>
+        <item>Série</item>
+        <item>Documentário</item>
+        <item>Animação</item>
+    </string-array>
+
+    <string-array name="generos_array">
+        <item>Ação</item>
+        <item>Aventura</item>
+        <item>Comédia</item>
+        <item>Drama</item>
+        <item>Terror</item>
+        <item>Ficção Científica</item>
+        <item>Romance</item>
+        <item>Animação</item>
+        <item>Documentário</item>
+        <item>Suspense</item>
+    </string-array>
+</resources>
